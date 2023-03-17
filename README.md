@@ -1,9 +1,9 @@
 ### IPV4 ###
 
 
-Subnet:
+Subnet nb IP
 
-2 ^ (32 - mask) = nb addr in subnet
+2 ^ (32 - mask) = nb addr in subnet - 2 (gateway + Braodcast)
 
 ex: /28 => 32 - 28 = 4 => 2 ^ 4 =  16 - 2 = 14
 
