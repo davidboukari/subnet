@@ -2,7 +2,8 @@
 
 * https://www.ipaddressguide.com/cidr
 * https://cidr.xyz/
-Subnet nb IP
+
+## Subnet nb IP
 
 2 ^ (32 - mask) = nb addr in subnet - 2 (gateway + Braodcast)
 
